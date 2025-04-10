@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jitendra Singh , a full-time full-stack developer 👨‍💻 working since Aug 2024 🚀</div>  
+### <div align="center">I'm Jitendra Singh , a full-time full-stack developer 👨‍💻 working since Aug 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Ekart (Ecommerce Web Application)](https://github.com/jitendra-singh27/EKART)  
