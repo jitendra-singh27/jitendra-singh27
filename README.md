@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jitendra Singh , a full-time full-stack developer 👨‍💻 working since Aug 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on <a href="https://roninxstream.pages.dev>RoninXStream <a/> [Video Streaming Website ]
+- 🔭 I’m currently working on <a href="https://roninxstream.pages.dev>RoninXStream <a/>[Video Streaming Website ]
   
 
 - 🌱 I’m currently learning NextJs And React Native  
