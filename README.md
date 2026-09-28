@@ -6,10 +6,10 @@
 ### <div align="center">I'm Jitendra Singh , a full-time full-stack developer 👨‍💻 working since Aug 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Ecommerce Store ]
+- 🔭 I’m currently working on GenAI Projects
   
 
-- 🌱 I’m currently learning NextJs And React Native  
+- 🌱 I’m currently learning RAG
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
