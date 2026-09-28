@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on GenAI Projects
   
 
-- 🌱 I’m currently learning RAG
+- 🌱 I’m currently learning RAG with LangChain
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
